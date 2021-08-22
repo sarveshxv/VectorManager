@@ -1,2 +1,2 @@
 # VectorManager
-Credentials Manager
+Credentials Manager to store credentials
